@@ -1,6 +1,5 @@
-package com.algorhythms.stack.impl;
+package com.algorhythms.stack;
 
-import com.algorhythms.stack.api.Stack;
 import java.util.Iterator;
 
 /**

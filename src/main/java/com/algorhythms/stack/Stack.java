@@ -1,4 +1,4 @@
-package com.algorhythms.stack.api;
+package com.algorhythms.stack;
 
 /**
  * Basic Stack interface.

@@ -1,7 +1,7 @@
 package com.algorhythms.stack;
 
-import com.algorhythms.stack.api.Stack;
-import com.algorhythms.stack.impl.LinkedStack;
+import com.algorhythms.stack.Stack;
+import com.algorhythms.stack.LinkedStack;
 
 import java.util.Iterator;
 import junit.framework.Test;

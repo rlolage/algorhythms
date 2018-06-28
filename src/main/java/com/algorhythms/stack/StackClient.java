@@ -1,7 +1,4 @@
-package com.algorhythms.stack.client;
-
-import com.algorhythms.stack.api.Stack;
-import com.algorhythms.stack.impl.LinkedStack;
+package com.algorhythms.stack;
 
 public class StackClient {
 
