@@ -37,6 +37,17 @@
             "mainClass": "com.algorhythms.percolation.PercolationStats",
             "projectName": "algorhythms",
             "args": "4 10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSortClient<algorhythms>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.algorhythms.sort.MergeSortClient",
+            "projectName": "algorhythms",
+            "args": ""
         }
     ]
 }
